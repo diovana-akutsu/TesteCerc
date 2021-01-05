@@ -1,0 +1,6 @@
+{
+  "viewportWidth": 1024,
+  "viewportHeight": 768,
+  "defaultCommandTimeout": 11000,
+  "baseUrl": "https://portal.alpe-dev.com.br/login"
+}
